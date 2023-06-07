@@ -1,5 +1,6 @@
 # RL_final_ue4
-![Uploading image.png…]()
+![image](https://github.com/jiun264/RL_final_ue4/assets/121162358/2a19fa1e-a90b-4b59-bf0b-2521bae62742)
+
 ## Features
 
 - Utilizes the UnrealCV library for communication with Unreal Engine.
