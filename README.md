@@ -1,6 +1,13 @@
 # RL_final_ue4
 ![Uploading image.png…]()
+## Features
 
+- Utilizes the UnrealCV library for communication with Unreal Engine.
+- Implements a Deep Q-Network (DQN) agent for reinforcement learning.
+- Uses convolutional neural networks (CNNs) for visual perception.
+- Supports continuous state and action spaces.
+- Provides a customizable environment for training and evaluation.
+- 
 ## Introduction
 
 This repository provides instructions and code for working with the **hitgub** project. The project utilizes a **3070ti** GPU and **CUDNN 8.6** for accelerated performance. This document outlines the steps to set up the necessary dependencies and get started with the project.
