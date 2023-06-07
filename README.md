@@ -9,7 +9,7 @@
 - Provides a customizable environment for training and evaluation.
 
 ## Introduction
-training an ai agent with dqn to find a door in realisticroom enviroment
+Training an ai agent with dqn to find a door in realisticroom enviroment
 This repository provides instructions and code for working with the **gitgub** project. The project utilizes a **3070ti** GPU and **CUDNN 8.6** for accelerated performance. This document outlines the steps to set up the necessary dependencies and get started with the project.
 
 ## Installation
