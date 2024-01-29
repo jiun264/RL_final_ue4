@@ -36,6 +36,10 @@ To begin, follow the steps below to set up the project environment:
     pip install tensorflow-directml-plugin
     ```
 
+https://github.com/jiun264/RL_final_ue4/assets/121162358/e1e40ea1-0ffc-448d-9386-568624755318
+
+
+
 5. Install Matplotlib from conda-forge:
     ```shell
     conda install -c conda-forge matplotlib
