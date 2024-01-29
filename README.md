@@ -1,6 +1,7 @@
 # RL_final_ue4
 ![image](https://github.com/jiun264/RL_final_ue4/assets/121162358/2a19fa1e-a90b-4b59-bf0b-2521bae62742)
 
+https://github.com/jiun264/RL_final_ue4/assets/121162358/e1e40ea1-0ffc-448d-9386-568624755318
 ## Features
 - Utilizes the UnrealCV library for communication with Unreal Engine.
 - Implements a Deep Q-Network (DQN) agent for reinforcement learning.
@@ -35,9 +36,6 @@ To begin, follow the steps below to set up the project environment:
     ```shell
     pip install tensorflow-directml-plugin
     ```
-
-https://github.com/jiun264/RL_final_ue4/assets/121162358/e1e40ea1-0ffc-448d-9386-568624755318
-
 
 
 5. Install Matplotlib from conda-forge:
